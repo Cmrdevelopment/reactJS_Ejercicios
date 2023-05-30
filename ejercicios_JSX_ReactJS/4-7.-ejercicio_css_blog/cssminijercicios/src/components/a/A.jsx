@@ -1,7 +1,5 @@
 import "./A.css";
 
-import React from "react";
-
 const A = (props) => {
   return (
     <div className="parrafoBlog">
